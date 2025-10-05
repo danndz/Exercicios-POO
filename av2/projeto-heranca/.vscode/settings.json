@@ -1,0 +1,5 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.project.outputPath": "bin"
+}
